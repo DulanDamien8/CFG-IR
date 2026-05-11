@@ -1,0 +1,2734 @@
+{
+  "ngram": {
+    "original": [
+      "sub",
+      "mov",
+      "xor",
+      "mov",
+      "add",
+      "xchg",
+      "dec",
+      "jnz",
+      "mov",
+      "call",
+      "add"
+    ],
+    "variants": {
+      "cfg_variant_10": [
+        "sub",
+        "mov",
+        "add",
+        "sub",
+        "push",
+        "pop",
+        "add",
+        "push",
+        "mov",
+        "pop",
+        "mov",
+        "dec",
+        "jnz",
+        "mov",
+        "lea",
+        "call",
+        "add"
+      ],
+      "cfg_variant_11": [
+        "sub",
+        "mov",
+        "push",
+        "pop",
+        "imul",
+        "and",
+        "xor",
+        "inc",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "nop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_12": [
+        "sub",
+        "push",
+        "pop",
+        "xor",
+        "push",
+        "pop",
+        "nop",
+        "add",
+        "push",
+        "mov",
+        "pop",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_13": [
+        "sub",
+        "mov",
+        "imul",
+        "lea",
+        "and",
+        "push",
+        "nop",
+        "pop",
+        "add",
+        "xchg",
+        "nop",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_14": [
+        "sub",
+        "push",
+        "pop",
+        "mov",
+        "xor",
+        "xor",
+        "mov",
+        "inc",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "lea",
+        "call",
+        "add"
+      ],
+      "cfg_variant_15": [
+        "sub",
+        "mov",
+        "add",
+        "and",
+        "push",
+        "lea",
+        "pop",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_16": [
+        "sub",
+        "push",
+        "pop",
+        "lea",
+        "xor",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "mov",
+        "nop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_17": [
+        "sub",
+        "mov",
+        "mov",
+        "imul",
+        "and",
+        "mov",
+        "lea",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_18": [
+        "sub",
+        "mov",
+        "nop",
+        "xor",
+        "push",
+        "pop",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "push",
+        "pop",
+        "mov",
+        "lea",
+        "call",
+        "add"
+      ],
+      "cfg_variant_19": [
+        "sub",
+        "mov",
+        "and",
+        "mov",
+        "add",
+        "lea",
+        "push",
+        "nop",
+        "mov",
+        "pop",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_1": [
+        "sub",
+        "push",
+        "pop",
+        "xor",
+        "mov",
+        "mov",
+        "add",
+        "push",
+        "pop",
+        "push",
+        "mov",
+        "pop",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_20": [
+        "sub",
+        "mov",
+        "nop",
+        "imul",
+        "sub",
+        "xor",
+        "inc",
+        "add",
+        "xchg",
+        "nop",
+        "dec",
+        "jnz",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_21": [
+        "sub",
+        "mov",
+        "add",
+        "push",
+        "pop",
+        "xor",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "nop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_22": [
+        "sub",
+        "mov",
+        "sub",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_23": [
+        "sub",
+        "mov",
+        "mov",
+        "imul",
+        "sub",
+        "mov",
+        "add",
+        "push",
+        "mov",
+        "pop",
+        "dec",
+        "jnz",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_24": [
+        "sub",
+        "push",
+        "pop",
+        "and",
+        "push",
+        "push",
+        "pop",
+        "pop",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_25": [
+        "sub",
+        "mov",
+        "mov",
+        "xor",
+        "xor",
+        "mov",
+        "inc",
+        "add",
+        "xchg",
+        "sub",
+        "jnz",
+        "lea",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_26": [
+        "sub",
+        "mov",
+        "imul",
+        "xor",
+        "push",
+        "nop",
+        "pop",
+        "add",
+        "push",
+        "mov",
+        "nop",
+        "pop",
+        "sub",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_27": [
+        "sub",
+        "push",
+        "pop",
+        "sub",
+        "nop",
+        "push",
+        "pop",
+        "add",
+        "push",
+        "mov",
+        "mov",
+        "pop",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_28": [
+        "sub",
+        "mov",
+        "xor",
+        "xor",
+        "inc",
+        "nop",
+        "add",
+        "xchg",
+        "sub",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_29": [
+        "sub",
+        "push",
+        "pop",
+        "sub",
+        "lea",
+        "mov",
+        "push",
+        "pop",
+        "add",
+        "xchg",
+        "lea",
+        "dec",
+        "jnz",
+        "mov",
+        "nop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_2": [
+        "sub",
+        "mov",
+        "imul",
+        "sub",
+        "xor",
+        "nop",
+        "inc",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_30": [
+        "sub",
+        "mov",
+        "imul",
+        "lea",
+        "and",
+        "push",
+        "pop",
+        "add",
+        "xchg",
+        "push",
+        "pop",
+        "dec",
+        "jnz",
+        "nop",
+        "mov",
+        "push",
+        "pop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_31": [
+        "sub",
+        "mov",
+        "add",
+        "push",
+        "pop",
+        "xor",
+        "xor",
+        "inc",
+        "add",
+        "xchg",
+        "nop",
+        "sub",
+        "jnz",
+        "nop",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_32": [
+        "sub",
+        "mov",
+        "and",
+        "xor",
+        "mov",
+        "inc",
+        "add",
+        "push",
+        "push",
+        "pop",
+        "mov",
+        "pop",
+        "sub",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_33": [
+        "sub",
+        "push",
+        "pop",
+        "push",
+        "pop",
+        "sub",
+        "push",
+        "nop",
+        "pop",
+        "add",
+        "mov",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_34": [
+        "sub",
+        "push",
+        "pop",
+        "xor",
+        "mov",
+        "push",
+        "pop",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "push",
+        "pop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_35": [
+        "sub",
+        "mov",
+        "imul",
+        "xor",
+        "xor",
+        "inc",
+        "nop",
+        "add",
+        "push",
+        "mov",
+        "pop",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_36": [
+        "sub",
+        "push",
+        "pop",
+        "sub",
+        "mov",
+        "add",
+        "push",
+        "mov",
+        "mov",
+        "pop",
+        "sub",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_37": [
+        "sub",
+        "mov",
+        "nop",
+        "imul",
+        "nop",
+        "xor",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_38": [
+        "sub",
+        "push",
+        "lea",
+        "pop",
+        "xor",
+        "push",
+        "pop",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_39": [
+        "sub",
+        "mov",
+        "lea",
+        "imul",
+        "sub",
+        "mov",
+        "add",
+        "xchg",
+        "push",
+        "pop",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_3": [
+        "sub",
+        "mov",
+        "sub",
+        "push",
+        "pop",
+        "mov",
+        "push",
+        "pop",
+        "add",
+        "xchg",
+        "sub",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_40": [
+        "sub",
+        "mov",
+        "mov",
+        "add",
+        "and",
+        "xor",
+        "lea",
+        "inc",
+        "push",
+        "pop",
+        "add",
+        "nop",
+        "xchg",
+        "dec",
+        "jnz",
+        "nop",
+        "mov",
+        "push",
+        "pop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_41": [
+        "sub",
+        "mov",
+        "add",
+        "xor",
+        "push",
+        "pop",
+        "push",
+        "pop",
+        "add",
+        "mov",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_42": [
+        "sub",
+        "mov",
+        "add",
+        "sub",
+        "nop",
+        "mov",
+        "add",
+        "xchg",
+        "nop",
+        "dec",
+        "jnz",
+        "mov",
+        "push",
+        "pop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_43": [
+        "sub",
+        "mov",
+        "imul",
+        "sub",
+        "xor",
+        "inc",
+        "add",
+        "xchg",
+        "sub",
+        "jnz",
+        "push",
+        "pop",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_44": [
+        "sub",
+        "mov",
+        "imul",
+        "xor",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_45": [
+        "sub",
+        "mov",
+        "imul",
+        "sub",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_46": [
+        "sub",
+        "mov",
+        "sub",
+        "xor",
+        "nop",
+        "inc",
+        "mov",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_47": [
+        "sub",
+        "mov",
+        "imul",
+        "xor",
+        "nop",
+        "xor",
+        "inc",
+        "mov",
+        "add",
+        "push",
+        "pop",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_48": [
+        "sub",
+        "mov",
+        "and",
+        "mov",
+        "add",
+        "lea",
+        "push",
+        "mov",
+        "pop",
+        "nop",
+        "dec",
+        "jnz",
+        "push",
+        "pop",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_49": [
+        "sub",
+        "mov",
+        "xor",
+        "xor",
+        "inc",
+        "mov",
+        "add",
+        "mov",
+        "xchg",
+        "sub",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_4": [
+        "sub",
+        "mov",
+        "nop",
+        "add",
+        "and",
+        "mov",
+        "add",
+        "lea",
+        "push",
+        "mov",
+        "mov",
+        "pop",
+        "nop",
+        "sub",
+        "jnz",
+        "push",
+        "pop",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_50": [
+        "sub",
+        "mov",
+        "nop",
+        "and",
+        "mov",
+        "add",
+        "mov",
+        "push",
+        "mov",
+        "pop",
+        "sub",
+        "jnz",
+        "nop",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_5": [
+        "sub",
+        "mov",
+        "add",
+        "push",
+        "pop",
+        "and",
+        "mov",
+        "add",
+        "mov",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_6": [
+        "sub",
+        "push",
+        "pop",
+        "xor",
+        "xor",
+        "inc",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "push",
+        "pop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_7": [
+        "sub",
+        "mov",
+        "add",
+        "and",
+        "push",
+        "pop",
+        "push",
+        "pop",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ],
+      "cfg_variant_8": [
+        "sub",
+        "mov",
+        "imul",
+        "xor",
+        "mov",
+        "lea",
+        "add",
+        "xchg",
+        "dec",
+        "jnz",
+        "mov",
+        "nop",
+        "call",
+        "add"
+      ],
+      "cfg_variant_9": [
+        "sub",
+        "mov",
+        "add",
+        "and",
+        "push",
+        "mov",
+        "pop",
+        "add",
+        "xchg",
+        "mov",
+        "dec",
+        "jnz",
+        "lea",
+        "mov",
+        "mov",
+        "call",
+        "add"
+      ]
+    },
+    "similarities": [
+      {
+        "variant": "cfg_variant_10",
+        "n": 3,
+        "cosine": 0.08606629658238703,
+        "jaccard": 0.043478260869565216
+      },
+      {
+        "variant": "cfg_variant_10",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_10",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_11",
+        "n": 3,
+        "cosine": 0.2672612419124244,
+        "jaccard": 0.15
+      },
+      {
+        "variant": "cfg_variant_11",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_11",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_12",
+        "n": 3,
+        "cosine": 0.2672612419124244,
+        "jaccard": 0.15
+      },
+      {
+        "variant": "cfg_variant_12",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_12",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_13",
+        "n": 3,
+        "cosine": 0.2672612419124244,
+        "jaccard": 0.15
+      },
+      {
+        "variant": "cfg_variant_13",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_13",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_14",
+        "n": 3,
+        "cosine": 0.2672612419124244,
+        "jaccard": 0.15
+      },
+      {
+        "variant": "cfg_variant_14",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_14",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_15",
+        "n": 3,
+        "cosine": 0.4811252243246881,
+        "jaccard": 0.3125
+      },
+      {
+        "variant": "cfg_variant_15",
+        "n": 4,
+        "cosine": 0.42640143271122083,
+        "jaccard": 0.26666666666666666
+      },
+      {
+        "variant": "cfg_variant_15",
+        "n": 5,
+        "cosine": 0.35856858280031806,
+        "jaccard": 0.21428571428571427
+      },
+      {
+        "variant": "cfg_variant_16",
+        "n": 3,
+        "cosine": 0.4622501635210243,
+        "jaccard": 0.29411764705882354
+      },
+      {
+        "variant": "cfg_variant_16",
+        "n": 4,
+        "cosine": 0.40824829046386296,
+        "jaccard": 0.25
+      },
+      {
+        "variant": "cfg_variant_16",
+        "n": 5,
+        "cosine": 0.3418817293789138,
+        "jaccard": 0.2
+      },
+      {
+        "variant": "cfg_variant_17",
+        "n": 3,
+        "cosine": 0.4811252243246881,
+        "jaccard": 0.3125
+      },
+      {
+        "variant": "cfg_variant_17",
+        "n": 4,
+        "cosine": 0.42640143271122083,
+        "jaccard": 0.26666666666666666
+      },
+      {
+        "variant": "cfg_variant_17",
+        "n": 5,
+        "cosine": 0.35856858280031806,
+        "jaccard": 0.21428571428571427
+      },
+      {
+        "variant": "cfg_variant_18",
+        "n": 3,
+        "cosine": 0.1781741612749496,
+        "jaccard": 0.09523809523809523
+      },
+      {
+        "variant": "cfg_variant_18",
+        "n": 4,
+        "cosine": 0.09805806756909201,
+        "jaccard": 0.05
+      },
+      {
+        "variant": "cfg_variant_18",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_19",
+        "n": 3,
+        "cosine": 0.2773500981126146,
+        "jaccard": 0.15789473684210525
+      },
+      {
+        "variant": "cfg_variant_19",
+        "n": 4,
+        "cosine": 0.20412414523193148,
+        "jaccard": 0.1111111111111111
+      },
+      {
+        "variant": "cfg_variant_19",
+        "n": 5,
+        "cosine": 0.11396057645963795,
+        "jaccard": 0.058823529411764705
+      },
+      {
+        "variant": "cfg_variant_1",
+        "n": 3,
+        "cosine": 0.2581988897471611,
+        "jaccard": 0.14285714285714285
+      },
+      {
+        "variant": "cfg_variant_1",
+        "n": 4,
+        "cosine": 0.1889822365046136,
+        "jaccard": 0.1
+      },
+      {
+        "variant": "cfg_variant_1",
+        "n": 5,
+        "cosine": 0.10482848367219183,
+        "jaccard": 0.05263157894736842
+      },
+      {
+        "variant": "cfg_variant_20",
+        "n": 3,
+        "cosine": 0.1781741612749496,
+        "jaccard": 0.09523809523809523
+      },
+      {
+        "variant": "cfg_variant_20",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_20",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_21",
+        "n": 3,
+        "cosine": 0.4622501635210243,
+        "jaccard": 0.29411764705882354
+      },
+      {
+        "variant": "cfg_variant_21",
+        "n": 4,
+        "cosine": 0.40824829046386296,
+        "jaccard": 0.25
+      },
+      {
+        "variant": "cfg_variant_21",
+        "n": 5,
+        "cosine": 0.3418817293789138,
+        "jaccard": 0.2
+      },
+      {
+        "variant": "cfg_variant_22",
+        "n": 3,
+        "cosine": 0.6666666666666666,
+        "jaccard": 0.5
+      },
+      {
+        "variant": "cfg_variant_22",
+        "n": 4,
+        "cosine": 0.6249999999999999,
+        "jaccard": 0.45454545454545453
+      },
+      {
+        "variant": "cfg_variant_22",
+        "n": 5,
+        "cosine": 0.5714285714285714,
+        "jaccard": 0.4
+      },
+      {
+        "variant": "cfg_variant_23",
+        "n": 3,
+        "cosine": 0.1781741612749496,
+        "jaccard": 0.09523809523809523
+      },
+      {
+        "variant": "cfg_variant_23",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_23",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_24",
+        "n": 3,
+        "cosine": 0.3563483225498992,
+        "jaccard": 0.21052631578947367
+      },
+      {
+        "variant": "cfg_variant_24",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_24",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_25",
+        "n": 3,
+        "cosine": 0.09245003270420486,
+        "jaccard": 0.047619047619047616
+      },
+      {
+        "variant": "cfg_variant_25",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_25",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_26",
+        "n": 3,
+        "cosine": 0.17213259316477406,
+        "jaccard": 0.09090909090909091
+      },
+      {
+        "variant": "cfg_variant_26",
+        "n": 4,
+        "cosine": 0.0944911182523068,
+        "jaccard": 0.047619047619047616
+      },
+      {
+        "variant": "cfg_variant_26",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_27",
+        "n": 3,
+        "cosine": 0.2581988897471611,
+        "jaccard": 0.14285714285714285
+      },
+      {
+        "variant": "cfg_variant_27",
+        "n": 4,
+        "cosine": 0.1889822365046136,
+        "jaccard": 0.1
+      },
+      {
+        "variant": "cfg_variant_27",
+        "n": 5,
+        "cosine": 0.10482848367219183,
+        "jaccard": 0.05263157894736842
+      },
+      {
+        "variant": "cfg_variant_28",
+        "n": 3,
+        "cosine": 0.30151134457776363,
+        "jaccard": 0.17647058823529413
+      },
+      {
+        "variant": "cfg_variant_28",
+        "n": 4,
+        "cosine": 0.11180339887498948,
+        "jaccard": 0.058823529411764705
+      },
+      {
+        "variant": "cfg_variant_28",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_29",
+        "n": 3,
+        "cosine": 0.08606629658238703,
+        "jaccard": 0.043478260869565216
+      },
+      {
+        "variant": "cfg_variant_29",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_29",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_2",
+        "n": 3,
+        "cosine": 0.5547001962252291,
+        "jaccard": 0.375
+      },
+      {
+        "variant": "cfg_variant_2",
+        "n": 4,
+        "cosine": 0.5103103630798287,
+        "jaccard": 0.3333333333333333
+      },
+      {
+        "variant": "cfg_variant_2",
+        "n": 5,
+        "cosine": 0.4558423058385518,
+        "jaccard": 0.2857142857142857
+      },
+      {
+        "variant": "cfg_variant_30",
+        "n": 3,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_30",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_30",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_31",
+        "n": 3,
+        "cosine": 0.08333333333333333,
+        "jaccard": 0.041666666666666664
+      },
+      {
+        "variant": "cfg_variant_31",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_31",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_32",
+        "n": 3,
+        "cosine": 0.17213259316477406,
+        "jaccard": 0.09090909090909091
+      },
+      {
+        "variant": "cfg_variant_32",
+        "n": 4,
+        "cosine": 0.0944911182523068,
+        "jaccard": 0.047619047619047616
+      },
+      {
+        "variant": "cfg_variant_32",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_33",
+        "n": 3,
+        "cosine": 0.3442651863295481,
+        "jaccard": 0.2
+      },
+      {
+        "variant": "cfg_variant_33",
+        "n": 4,
+        "cosine": 0.2834733547569204,
+        "jaccard": 0.15789473684210525
+      },
+      {
+        "variant": "cfg_variant_33",
+        "n": 5,
+        "cosine": 0.20965696734438366,
+        "jaccard": 0.1111111111111111
+      },
+      {
+        "variant": "cfg_variant_34",
+        "n": 3,
+        "cosine": 0.25,
+        "jaccard": 0.15789473684210525
+      },
+      {
+        "variant": "cfg_variant_34",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_34",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_35",
+        "n": 3,
+        "cosine": 0.2672612419124244,
+        "jaccard": 0.15
+      },
+      {
+        "variant": "cfg_variant_35",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_35",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_36",
+        "n": 3,
+        "cosine": 0.18490006540840973,
+        "jaccard": 0.1
+      },
+      {
+        "variant": "cfg_variant_36",
+        "n": 4,
+        "cosine": 0.10206207261596574,
+        "jaccard": 0.05263157894736842
+      },
+      {
+        "variant": "cfg_variant_36",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_37",
+        "n": 3,
+        "cosine": 0.6735753140545634,
+        "jaccard": 0.5
+      },
+      {
+        "variant": "cfg_variant_37",
+        "n": 4,
+        "cosine": 0.6396021490668313,
+        "jaccard": 0.46153846153846156
+      },
+      {
+        "variant": "cfg_variant_37",
+        "n": 5,
+        "cosine": 0.5976143046671968,
+        "jaccard": 0.4166666666666667
+      },
+      {
+        "variant": "cfg_variant_38",
+        "n": 3,
+        "cosine": 0.4811252243246881,
+        "jaccard": 0.3125
+      },
+      {
+        "variant": "cfg_variant_38",
+        "n": 4,
+        "cosine": 0.42640143271122083,
+        "jaccard": 0.26666666666666666
+      },
+      {
+        "variant": "cfg_variant_38",
+        "n": 5,
+        "cosine": 0.35856858280031806,
+        "jaccard": 0.21428571428571427
+      },
+      {
+        "variant": "cfg_variant_39",
+        "n": 3,
+        "cosine": 0.36980013081681945,
+        "jaccard": 0.2222222222222222
+      },
+      {
+        "variant": "cfg_variant_39",
+        "n": 4,
+        "cosine": 0.20412414523193148,
+        "jaccard": 0.1111111111111111
+      },
+      {
+        "variant": "cfg_variant_39",
+        "n": 5,
+        "cosine": 0.11396057645963795,
+        "jaccard": 0.058823529411764705
+      },
+      {
+        "variant": "cfg_variant_3",
+        "n": 3,
+        "cosine": 0.18490006540840973,
+        "jaccard": 0.1
+      },
+      {
+        "variant": "cfg_variant_3",
+        "n": 4,
+        "cosine": 0.10206207261596574,
+        "jaccard": 0.05263157894736842
+      },
+      {
+        "variant": "cfg_variant_3",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_40",
+        "n": 3,
+        "cosine": 0.07647191129018724,
+        "jaccard": 0.037037037037037035
+      },
+      {
+        "variant": "cfg_variant_40",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_40",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_41",
+        "n": 3,
+        "cosine": 0.3563483225498992,
+        "jaccard": 0.21052631578947367
+      },
+      {
+        "variant": "cfg_variant_41",
+        "n": 4,
+        "cosine": 0.294174202707276,
+        "jaccard": 0.16666666666666666
+      },
+      {
+        "variant": "cfg_variant_41",
+        "n": 5,
+        "cosine": 0.2182178902359924,
+        "jaccard": 0.11764705882352941
+      },
+      {
+        "variant": "cfg_variant_42",
+        "n": 3,
+        "cosine": 0.1781741612749496,
+        "jaccard": 0.09523809523809523
+      },
+      {
+        "variant": "cfg_variant_42",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_42",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_43",
+        "n": 3,
+        "cosine": 0.09245003270420486,
+        "jaccard": 0.047619047619047616
+      },
+      {
+        "variant": "cfg_variant_43",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_43",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_44",
+        "n": 3,
+        "cosine": 0.6030226891555273,
+        "jaccard": 0.42857142857142855
+      },
+      {
+        "variant": "cfg_variant_44",
+        "n": 4,
+        "cosine": 0.4472135954999579,
+        "jaccard": 0.2857142857142857
+      },
+      {
+        "variant": "cfg_variant_44",
+        "n": 5,
+        "cosine": 0.3779644730092272,
+        "jaccard": 0.23076923076923078
+      },
+      {
+        "variant": "cfg_variant_45",
+        "n": 3,
+        "cosine": 0.6324555320336759,
+        "jaccard": 0.46153846153846156
+      },
+      {
+        "variant": "cfg_variant_45",
+        "n": 4,
+        "cosine": 0.5892556509887895,
+        "jaccard": 0.4166666666666667
+      },
+      {
+        "variant": "cfg_variant_45",
+        "n": 5,
+        "cosine": 0.5345224838248487,
+        "jaccard": 0.36363636363636365
+      },
+      {
+        "variant": "cfg_variant_46",
+        "n": 3,
+        "cosine": 0.4622501635210243,
+        "jaccard": 0.29411764705882354
+      },
+      {
+        "variant": "cfg_variant_46",
+        "n": 4,
+        "cosine": 0.30618621784789724,
+        "jaccard": 0.17647058823529413
+      },
+      {
+        "variant": "cfg_variant_46",
+        "n": 5,
+        "cosine": 0.2279211529192759,
+        "jaccard": 0.125
+      },
+      {
+        "variant": "cfg_variant_47",
+        "n": 3,
+        "cosine": 0.3442651863295481,
+        "jaccard": 0.2
+      },
+      {
+        "variant": "cfg_variant_47",
+        "n": 4,
+        "cosine": 0.2834733547569204,
+        "jaccard": 0.15789473684210525
+      },
+      {
+        "variant": "cfg_variant_47",
+        "n": 5,
+        "cosine": 0.20965696734438366,
+        "jaccard": 0.1111111111111111
+      },
+      {
+        "variant": "cfg_variant_48",
+        "n": 3,
+        "cosine": 0.08606629658238703,
+        "jaccard": 0.043478260869565216
+      },
+      {
+        "variant": "cfg_variant_48",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_48",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_49",
+        "n": 3,
+        "cosine": 0.28867513459481287,
+        "jaccard": 0.16666666666666666
+      },
+      {
+        "variant": "cfg_variant_49",
+        "n": 4,
+        "cosine": 0.10660035817780521,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_49",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_4",
+        "n": 3,
+        "cosine": 0.07856742013183861,
+        "jaccard": 0.038461538461538464
+      },
+      {
+        "variant": "cfg_variant_4",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_4",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_50",
+        "n": 3,
+        "cosine": 0.0890870806374748,
+        "jaccard": 0.045454545454545456
+      },
+      {
+        "variant": "cfg_variant_50",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_50",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_5",
+        "n": 3,
+        "cosine": 0.36980013081681945,
+        "jaccard": 0.2222222222222222
+      },
+      {
+        "variant": "cfg_variant_5",
+        "n": 4,
+        "cosine": 0.30618621784789724,
+        "jaccard": 0.17647058823529413
+      },
+      {
+        "variant": "cfg_variant_5",
+        "n": 5,
+        "cosine": 0.2279211529192759,
+        "jaccard": 0.125
+      },
+      {
+        "variant": "cfg_variant_6",
+        "n": 3,
+        "cosine": 0.2773500981126146,
+        "jaccard": 0.15789473684210525
+      },
+      {
+        "variant": "cfg_variant_6",
+        "n": 4,
+        "cosine": 0.20412414523193148,
+        "jaccard": 0.1111111111111111
+      },
+      {
+        "variant": "cfg_variant_6",
+        "n": 5,
+        "cosine": 0.11396057645963795,
+        "jaccard": 0.058823529411764705
+      },
+      {
+        "variant": "cfg_variant_7",
+        "n": 3,
+        "cosine": 0.3563483225498992,
+        "jaccard": 0.21052631578947367
+      },
+      {
+        "variant": "cfg_variant_7",
+        "n": 4,
+        "cosine": 0.19611613513818402,
+        "jaccard": 0.10526315789473684
+      },
+      {
+        "variant": "cfg_variant_7",
+        "n": 5,
+        "cosine": 0.1091089451179962,
+        "jaccard": 0.05555555555555555
+      },
+      {
+        "variant": "cfg_variant_8",
+        "n": 3,
+        "cosine": 0.28867513459481287,
+        "jaccard": 0.16666666666666666
+      },
+      {
+        "variant": "cfg_variant_8",
+        "n": 4,
+        "cosine": 0.21320071635561041,
+        "jaccard": 0.11764705882352941
+      },
+      {
+        "variant": "cfg_variant_8",
+        "n": 5,
+        "cosine": 0.11952286093343936,
+        "jaccard": 0.0625
+      },
+      {
+        "variant": "cfg_variant_9",
+        "n": 3,
+        "cosine": 0.08606629658238703,
+        "jaccard": 0.043478260869565216
+      },
+      {
+        "variant": "cfg_variant_9",
+        "n": 4,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      },
+      {
+        "variant": "cfg_variant_9",
+        "n": 5,
+        "cosine": 0.0,
+        "jaccard": 0.0
+      }
+    ]
+  },
+  "fuzzy_hash": {
+    "original_hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYUXMm8lWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DrM11tAjBiF",
+    "variants": {
+      "cfg_variant_1": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3KX6Y2m8lWG/CkPuZkPuLMpd1L:E6BRhUiOGU6uBTJBI2D225/x1tAjBiF",
+        "similarity": 88
+      },
+      "cfg_variant_10": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUEUz6W1tA+cBiF:7uBt62Dm6W1t5cBm",
+        "similarity": 82
+      },
+      "cfg_variant_11": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRhjssCJY1tA/TBVUZF:7uBt62DioY1t0TBVUX",
+        "similarity": 72
+      },
+      "cfg_variant_12": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3KX/DQucPlWGMpd1tAjBbWFn:E6BRhUiOGU6uBTJBI2D21F1tAjBiF",
+        "similarity": 94
+      },
+      "cfg_variant_13": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRKrCFjN1tAjBiF:7uBt62DiRjN1tkBm",
+        "similarity": 86
+      },
+      "cfg_variant_14": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3XhyY0X6BYBlWWd1tA+SabyBbS:E6BRhUiOGU6uBTJBI2DeZ1tA+cBiF",
+        "similarity": 88
+      },
+      "cfg_variant_15": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUfsCeY1tAjBVUZF:7uBt62D/Y1tkBVUX",
+        "similarity": 80
+      },
+      "cfg_variant_16": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h33aabuXMm8lWWdj/FoYFtAeuT4:E6BRhUiOGU6uBTJBI2D1OM1RtA/TBiF",
+        "similarity": 88
+      },
+      "cfg_variant_17": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRlsCxn1tAjBiF:7uBt62DiR1tkBm",
+        "similarity": 85
+      },
+      "cfg_variant_18": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYpu5X/DYlWWdxmkPuIIkPu7tA+Sm:E6BRhUiOGU6uBTJBI2DV5+vjutA+cBiF",
+        "similarity": 80
+      },
+      "cfg_variant_19": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DCCxiVJ1tAjBVUZF:7uBt62DCVJ1tkBVUX",
+        "similarity": 80
+      },
+      "cfg_variant_2": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRCUzqOZ1tAjBiF:7uBt62DihqOZ1tkBm",
+        "similarity": 83
+      },
+      "cfg_variant_20": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiR6PUzBN1tAfBiF:7uBt62Di0MBN1t8Bm",
+        "similarity": 80
+      },
+      "cfg_variant_21": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUR18rJMiY1tA/TBVUZF:7uBt62DySdY1t0TBVUX",
+        "similarity": 79
+      },
+      "cfg_variant_22": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYpFXGz+m8lWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DqUz+11tAjBiF",
+        "similarity": 96
+      },
+      "cfg_variant_23": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRUUz+M1tAhBiF:7uBt62Divr1tyBm",
+        "similarity": 85
+      },
+      "cfg_variant_24": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3LCKD3nkPuOkPuslWWdwYFtAj4:E6BRhUiOGU6uBTJBI2DhCDUx/tAjBiF",
+        "similarity": 85
+      },
+      "cfg_variant_25": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY9hyY0X6U/FoYBlWjFXkHdkab7tl:E6BRhUiOGU6uBTJBI2DD4KrtAjBiF",
+        "similarity": 91
+      },
+      "cfg_variant_26": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRzehxK1tAjBiF:7uBt62DiIhA1tkBm",
+        "similarity": 85
+      },
+      "cfg_variant_27": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DVUzoAN1tAjBVUZF:7uBt62DioAN1tkBVUX",
+        "similarity": 80
+      },
+      "cfg_variant_28": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DrIvjK1tAjBVUZF:7uBt62D0vm1tkBVUX",
+        "similarity": 85
+      },
+      "cfg_variant_29": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DVUzMO18rq1tA/TBiF:7uBt62DihS+1t0TBm",
+        "similarity": 85
+      },
+      "cfg_variant_3": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DqUzz/dNFfjK1tAjBVUZF:7uBt62DzRm1tkBVUX",
+        "similarity": 75
+      },
+      "cfg_variant_30": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRgBCX18r9getAhgjBiF:7uBt62DiOOSxgetTBm",
+        "similarity": 77
+      },
+      "cfg_variant_31": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUlgJ2m4KgetAxBVUZF:7uBt62D4mxgetiBVUX",
+        "similarity": 71
+      },
+      "cfg_variant_32": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY9CtMhyYBlWGMMmkPuIIkPuJFXkL:E6BRhUiOGU6uBTJBI2DCCWjUK1tAjBiF",
+        "similarity": 86
+      },
+      "cfg_variant_33": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DlFoUzMl1tAjBiF:7uBt62DBMl1tkBm",
+        "similarity": 88
+      },
+      "cfg_variant_34": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2D2Mn/fY1tAVcjBVUZF:7uBt62DlY1tjBVUX",
+        "similarity": 82
+      },
+      "cfg_variant_35": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY+2RkEX66ucPlWGMpd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DiRzIF1tAjBiF",
+        "similarity": 88
+      },
+      "cfg_variant_36": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h33FXGz+m8lWGMNYzFXkHd1tAj4:E6BRhUiOGU6uBTJBI2DVUz+ZK1tAjBiF",
+        "similarity": 86
+      },
+      "cfg_variant_37": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiR6y5MiY1tAjBVUZF:7uBt62Di0yRY1tkBVUX",
+        "similarity": 82
+      },
+      "cfg_variant_38": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3+abOX/DYlWTWd1tAjBVUeWFn:E6BRhUiOGU6uBTJBI2DkZY1tAjBVUZF",
+        "similarity": 85
+      },
+      "cfg_variant_39": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRcUz+5g91tAjBiF:7uBt62Di/F1tkBm",
+        "similarity": 82
+      },
+      "cfg_variant_4": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DU6gsCxiTJT4KugutAjBVUZF:7uBt62DlpFTxitkBVUX",
+        "similarity": 69
+      },
+      "cfg_variant_40": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUrsC0i18rDAgetAVcjBiF:7uBt62DViSnAgetjBm",
+        "similarity": 80
+      },
+      "cfg_variant_41": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DU1wgpJH1tAjBiF:7uBt62DmH1tkBm",
+        "similarity": 88
+      },
+      "cfg_variant_42": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUEUzoNimN1tAmFjBVUZF:7uBt62DmoomN1tbBVUX",
+        "similarity": 75
+      },
+      "cfg_variant_43": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRCUzWKy18rutAjBiF:7uBt62DihDySKtkBm",
+        "similarity": 80
+      },
+      "cfg_variant_44": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY+2RkEXMm8lWWd1tA0/FoY4BbWFn:E6BRhUiOGU6uBTJBI2DiRzM11tAnBiF",
+        "similarity": 91
+      },
+      "cfg_variant_45": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY+2RkZFXGz+m8lWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DiRCUz+11tAjBm",
+        "similarity": 91
+      },
+      "cfg_variant_46": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYpFXGzM+ug/FoYRPlWWd1tAlY4Bm:E6BRhUiOGU6uBTJBI2DqUzq01tArBiF",
+        "similarity": 85
+      },
+      "cfg_variant_47": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRzqsN/Q1tAjBiF:7uBt62Di8sO1tkBm",
+        "similarity": 83
+      },
+      "cfg_variant_48": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DCCxnUNL/utAjBiF:7uBt62DHUNatkBm",
+        "similarity": 80
+      },
+      "cfg_variant_49": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYUX69YRPlWjYaFXkHd1tAjBbWFn:E6BRhUiOGU6uBTJBI2Dr6K1tAjBiF",
+        "similarity": 94
+      },
+      "cfg_variant_5": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUR18rwCxik1tAjBVUZF:7uBt62DySgk1tkBVUX",
+        "similarity": 79
+      },
+      "cfg_variant_50": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DVACxjKgetAjBiF:7uBt62DVAgetkBm",
+        "similarity": 82
+      },
+      "cfg_variant_6": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2D22Y1tAgjjBVUZF:7uBt62DVY1trBVUX",
+        "similarity": 82
+      },
+      "cfg_variant_7": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DUfsCQ18rfY1tAiYBVUZF:7uBt62DnSzY1txYBVUX",
+        "similarity": 75
+      },
+      "cfg_variant_8": {
+        "hash": "24:E6BRhUiOGU6uBTJBI2DiRzMEY1tA/TBVUZF:7uBt62DiLY1t0TBVUX",
+        "similarity": 79
+      },
+      "cfg_variant_9": {
+        "hash": "12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYJ1f/GWsCKDPhyYmlWmYId5aab7/:E6BRhUiOGU6uBTJBI2DUfsCR5htAfBiF",
+        "similarity": 80
+      }
+    },
+    "similarities": [
+      88,
+      82,
+      72,
+      94,
+      86,
+      88,
+      80,
+      88,
+      85,
+      80,
+      80,
+      83,
+      80,
+      79,
+      96,
+      85,
+      85,
+      91,
+      85,
+      80,
+      85,
+      85,
+      75,
+      77,
+      71,
+      86,
+      88,
+      82,
+      88,
+      86,
+      82,
+      85,
+      82,
+      69,
+      80,
+      88,
+      75,
+      80,
+      91,
+      91,
+      85,
+      83,
+      80,
+      94,
+      79,
+      82,
+      82,
+      75,
+      79,
+      80
+    ],
+    "binary": {
+      "original_hash": "12:eFGSGFCwYxGHEN9MUNWJq2eWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLiWzYLkvZh9h96J2T5Bv",
+      "variants": {
+        "cfg_variant_1": {
+          "hash": "12:eFGSGFCwYxGHi5UKqLNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLicU2kvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_10": {
+          "hash": "12:eFGSGFCwYxvy1IrxWwWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVyer05kvZh9h96J2T5Bv",
+          "similarity": 80
+        },
+        "cfg_variant_11": {
+          "hash": "12:eFGSGFCwYxvLl/220p6Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVpREkvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_12": {
+          "hash": "12:eFGSGFCwYxvlGGZqeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVUpkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_13": {
+          "hash": "12:eFGSGFCwYxvil//ilgLNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVMGkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_14": {
+          "hash": "12:eFGSGFCwYxvINmWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLV4kvZh9h96J2T5Bv",
+          "similarity": 86
+        },
+        "cfg_variant_15": {
+          "hash": "12:eFGSGFCwYxvECJQCSNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVmAkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_16": {
+          "hash": "12:eFGSGFCwYxvo4Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVKkvZh9h96J2T5Bv",
+          "similarity": 86
+        },
+        "cfg_variant_17": {
+          "hash": "12:eFGSGFCwYxOgNl/S3cmFvyCaeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYgvq3XF6HkvZh9h96J2T5Bv",
+          "similarity": 80
+        },
+        "cfg_variant_18": {
+          "hash": "12:eFGSGFCwYxO/9g1KmWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYlgwkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_19": {
+          "hash": "12:eFGSGFCwYxOQ98/7OiUOeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYOQqULkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_2": {
+          "hash": "12:eFGSGFCwYxGH1l/Tm7LqMWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLiXxkvZh9h96J2T5Bv",
+          "similarity": 90
+        },
+        "cfg_variant_20": {
+          "hash": "12:eFGSGFCwYxOQl/NhaYUOeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLY2OOLkvZh9h96J2T5Bv",
+          "similarity": 90
+        },
+        "cfg_variant_21": {
+          "hash": "12:eFGSGFCwYxOLr06Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLY0kvZh9h96J2T5Bv",
+          "similarity": 91
+        },
+        "cfg_variant_22": {
+          "hash": "12:eFGSGFCwYxOEN9UqWy2eWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYWWLkvZh9h96J2T5Bv",
+          "similarity": 91
+        },
+        "cfg_variant_23": {
+          "hash": "12:eFGSGFCwYxOnl/XAfrM+Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYlNkvZh9h96J2T5Bv",
+          "similarity": 90
+        },
+        "cfg_variant_24": {
+          "hash": "12:eFGSGFCwYxOE3gy2eWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYcOLkvZh9h96J2T5Bv",
+          "similarity": 91
+        },
+        "cfg_variant_25": {
+          "hash": "12:eFGSGFCwYxOy19FnnKm58WwWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYy/Fnnz5d5kvZh9h96J2T5Bv",
+          "similarity": 79
+        },
+        "cfg_variant_26": {
+          "hash": "12:eFGSGFCwYxOil/baLNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYMxkvZh9h96J2T5Bv",
+          "similarity": 90
+        },
+        "cfg_variant_27": {
+          "hash": "12:eFGSGFCwYxOzShp0Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLYzSFkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_28": {
+          "hash": "12:eFGSGFCwYxxD9M9cXCWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTJ5fkvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_29": {
+          "hash": "12:eFGSGFCwYxx1t3KG/OeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTyPLkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_3": {
+          "hash": "12:eFGSGFCwYxGHL9UJRc7q6Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLiBjWkvZh9h96J2T5Bv",
+          "similarity": 91
+        },
+        "cfg_variant_30": {
+          "hash": "12:eFGSGFCwYxxql//SrUGWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTUnvkvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_31": {
+          "hash": "12:eFGSGFCwYxxnl7ti5X+Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTlikvZh9h96J2T5Bv",
+          "similarity": 90
+        },
+        "cfg_variant_32": {
+          "hash": "12:eFGSGFCwYxxx98zdwWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTL0rkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_33": {
+          "hash": "12:eFGSGFCwYxxEE+3WF2eWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTu3jLkvZh9h96J2T5Bv",
+          "similarity": 86
+        },
+        "cfg_variant_34": {
+          "hash": "12:eFGSGFCwYxxCCSNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTuAkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_35": {
+          "hash": "12:eFGSGFCwYxx1l/bt27vMWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTXx2JkvZh9h96J2T5Bv",
+          "similarity": 82
+        },
+        "cfg_variant_36": {
+          "hash": "12:eFGSGFCwYxx1f4Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLT1JkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_37": {
+          "hash": "12:eFGSGFCwYxxil/cN0LNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLTMENkvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_38": {
+          "hash": "12:eFGSGFCwYx47OS/fqgWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLurX4kvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_39": {
+          "hash": "12:eFGSGFCwYx4xl/LphbwWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLuzflkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_4": {
+          "hash": "12:eFGSGFCwYxGHO1y9TvpOjqqwWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLiNTvsxkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_40": {
+          "hash": "12:eFGSGFCwYx4v9qd2Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLuCkvZh9h96J2T5Bv",
+          "similarity": 86
+        },
+        "cfg_variant_41": {
+          "hash": "12:eFGSGFCwYx41Br7aMWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLuTwkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_42": {
+          "hash": "12:eFGSGFCwYx4y1+N2yWwWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLuyEo35kvZh9h96J2T5Bv",
+          "similarity": 80
+        },
+        "cfg_variant_43": {
+          "hash": "12:eFGSGFCwYx4Ql/T59tqOeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLu21LkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_44": {
+          "hash": "12:eFGSGFCwYx41l/bttaMWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLuXxakvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_45": {
+          "hash": "12:eFGSGFCwYx4El/T4XCSNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLuKqAkvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_46": {
+          "hash": "12:eFGSGFCwYx4i9UAogLNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLukYrkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_47": {
+          "hash": "12:eFGSGFCwYx4xl/b13wWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLuzpJkvZh9h96J2T5Bv",
+          "similarity": 88
+        },
+        "cfg_variant_48": {
+          "hash": "12:eFGSGFCwYxscn98/tR+Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLR9QDkvZh9h96J2T5Bv",
+          "similarity": 83
+        },
+        "cfg_variant_49": {
+          "hash": "12:eFGSGFCwYxsci9McKLNWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLRkBkvZh9h96J2T5Bv",
+          "similarity": 85
+        },
+        "cfg_variant_5": {
+          "hash": "12:eFGSGFCwYxvgNK9Bx4yLaeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVgoT4yukvZh9h96J2T5Bv",
+          "similarity": 80
+        },
+        "cfg_variant_50": {
+          "hash": "12:eFGSGFCwYxscy19CjFWwWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLRy/Cjg5kvZh9h96J2T5Bv",
+          "similarity": 80
+        },
+        "cfg_variant_6": {
+          "hash": "12:eFGSGFCwYxv00Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVSkvZh9h96J2T5Bv",
+          "similarity": 86
+        },
+        "cfg_variant_7": {
+          "hash": "12:eFGSGFCwYxvQCR3wJOeWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVlLkvZh9h96J2T5Bv",
+          "similarity": 90
+        },
+        "cfg_variant_8": {
+          "hash": "12:eFGSGFCwYxvLl/btymFXp6Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVpx1FRkvZh9h96J2T5Bv",
+          "similarity": 80
+        },
+        "cfg_variant_9": {
+          "hash": "12:eFGSGFCwYxvnCmjEJ+Wk4O+EphiqhWiHaJ2+w5Bv:eFGSQCLVdjEdkvZh9h96J2T5Bv",
+          "similarity": 82
+        }
+      },
+      "similarities": [
+        88,
+        80,
+        83,
+        85,
+        85,
+        86,
+        85,
+        86,
+        80,
+        88,
+        88,
+        90,
+        90,
+        91,
+        91,
+        90,
+        91,
+        79,
+        90,
+        88,
+        83,
+        88,
+        91,
+        83,
+        90,
+        88,
+        86,
+        85,
+        82,
+        85,
+        83,
+        83,
+        88,
+        85,
+        86,
+        85,
+        80,
+        88,
+        83,
+        83,
+        88,
+        88,
+        83,
+        85,
+        80,
+        80,
+        86,
+        90,
+        80,
+        82
+      ]
+    }
+  },
+  "cfg": {
+    "original_cfg": {
+      "nodes": 11,
+      "edges": 9
+    },
+    "variants": {
+      "cfg_variant_10": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_11": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_12": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_13": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_14": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_15": {
+        "nodes": 14,
+        "edges": 12,
+        "ged": 0.23076923076923078,
+        "subgraph_similarity": 0.5714285714285714
+      },
+      "cfg_variant_16": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.35714285714285715,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_17": {
+        "nodes": 14,
+        "edges": 12,
+        "ged": 0.23076923076923078,
+        "subgraph_similarity": 0.5714285714285714
+      },
+      "cfg_variant_18": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.4,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_19": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_1": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_20": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_21": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_22": {
+        "nodes": 11,
+        "edges": 9,
+        "ged": 0.0,
+        "subgraph_similarity": 1.0
+      },
+      "cfg_variant_23": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_24": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_25": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_26": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_27": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_28": {
+        "nodes": 13,
+        "edges": 11,
+        "ged": 0.25,
+        "subgraph_similarity": 0.6923076923076923
+      },
+      "cfg_variant_29": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_2": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_30": {
+        "nodes": 19,
+        "edges": 17,
+        "ged": 0.4444444444444444,
+        "subgraph_similarity": 0.3684210526315789
+      },
+      "cfg_variant_31": {
+        "nodes": 18,
+        "edges": 16,
+        "ged": 0.4117647058823529,
+        "subgraph_similarity": 0.3888888888888889
+      },
+      "cfg_variant_32": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_33": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_34": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_35": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_36": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_37": {
+        "nodes": 14,
+        "edges": 12,
+        "ged": 0.23076923076923078,
+        "subgraph_similarity": 0.5714285714285714
+      },
+      "cfg_variant_38": {
+        "nodes": 14,
+        "edges": 12,
+        "ged": 0.23076923076923078,
+        "subgraph_similarity": 0.5714285714285714
+      },
+      "cfg_variant_39": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_3": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_40": {
+        "nodes": 21,
+        "edges": 19,
+        "ged": 0.5,
+        "subgraph_similarity": 0.3333333333333333
+      },
+      "cfg_variant_41": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_42": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_43": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.35714285714285715,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_44": {
+        "nodes": 13,
+        "edges": 11,
+        "ged": 0.25,
+        "subgraph_similarity": 0.6923076923076923
+      },
+      "cfg_variant_45": {
+        "nodes": 12,
+        "edges": 10,
+        "ged": 0.18181818181818182,
+        "subgraph_similarity": 0.8333333333333334
+      },
+      "cfg_variant_46": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_47": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_48": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      },
+      "cfg_variant_49": {
+        "nodes": 14,
+        "edges": 12,
+        "ged": 0.23076923076923078,
+        "subgraph_similarity": 0.5714285714285714
+      },
+      "cfg_variant_4": {
+        "nodes": 20,
+        "edges": 18,
+        "ged": 0.47368421052631576,
+        "subgraph_similarity": 0.35
+      },
+      "cfg_variant_50": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_5": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.2857142857142857,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_6": {
+        "nodes": 15,
+        "edges": 13,
+        "ged": 0.35714285714285715,
+        "subgraph_similarity": 0.4666666666666667
+      },
+      "cfg_variant_7": {
+        "nodes": 16,
+        "edges": 14,
+        "ged": 0.3333333333333333,
+        "subgraph_similarity": 0.4375
+      },
+      "cfg_variant_8": {
+        "nodes": 14,
+        "edges": 12,
+        "ged": 0.3076923076923077,
+        "subgraph_similarity": 0.5714285714285714
+      },
+      "cfg_variant_9": {
+        "nodes": 17,
+        "edges": 15,
+        "ged": 0.375,
+        "subgraph_similarity": 0.4117647058823529
+      }
+    },
+    "similarities": {
+      "ged": [
+        0.375,
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333,
+        0.3333333333333333,
+        0.23076923076923078,
+        0.35714285714285715,
+        0.23076923076923078,
+        0.4,
+        0.2857142857142857,
+        0.375,
+        0.3333333333333333,
+        0.2857142857142857,
+        0.0,
+        0.3333333333333333,
+        0.3333333333333333,
+        0.2857142857142857,
+        0.375,
+        0.375,
+        0.25,
+        0.375,
+        0.2857142857142857,
+        0.4444444444444444,
+        0.4117647058823529,
+        0.375,
+        0.375,
+        0.3333333333333333,
+        0.3333333333333333,
+        0.2857142857142857,
+        0.23076923076923078,
+        0.23076923076923078,
+        0.2857142857142857,
+        0.2857142857142857,
+        0.5,
+        0.3333333333333333,
+        0.3333333333333333,
+        0.35714285714285715,
+        0.25,
+        0.18181818181818182,
+        0.2857142857142857,
+        0.375,
+        0.375,
+        0.23076923076923078,
+        0.47368421052631576,
+        0.3333333333333333,
+        0.2857142857142857,
+        0.35714285714285715,
+        0.3333333333333333,
+        0.3076923076923077,
+        0.375
+      ],
+      "subgraph": [
+        0.4117647058823529,
+        0.4375,
+        0.4375,
+        0.4375,
+        0.4375,
+        0.5714285714285714,
+        0.4666666666666667,
+        0.5714285714285714,
+        0.4375,
+        0.4666666666666667,
+        0.4117647058823529,
+        0.4375,
+        0.4666666666666667,
+        1.0,
+        0.4375,
+        0.4375,
+        0.4666666666666667,
+        0.4117647058823529,
+        0.4117647058823529,
+        0.6923076923076923,
+        0.4117647058823529,
+        0.4666666666666667,
+        0.3684210526315789,
+        0.3888888888888889,
+        0.4117647058823529,
+        0.4117647058823529,
+        0.4375,
+        0.4375,
+        0.4666666666666667,
+        0.5714285714285714,
+        0.5714285714285714,
+        0.4666666666666667,
+        0.4666666666666667,
+        0.3333333333333333,
+        0.4375,
+        0.4375,
+        0.4666666666666667,
+        0.6923076923076923,
+        0.8333333333333334,
+        0.4666666666666667,
+        0.4117647058823529,
+        0.4117647058823529,
+        0.5714285714285714,
+        0.35,
+        0.4375,
+        0.4666666666666667,
+        0.4666666666666667,
+        0.4375,
+        0.5714285714285714,
+        0.4117647058823529
+      ]
+    }
+  }
+}

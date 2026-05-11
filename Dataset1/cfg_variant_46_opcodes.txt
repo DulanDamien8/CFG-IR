@@ -1,0 +1,14 @@
+sub
+mov
+imul
+nop
+sub
+mov
+add
+xchg
+nop
+sub
+jnz
+mov
+call
+add

@@ -1,0 +1,1313 @@
+
+======================================================================
+STARTING CFG-BASED METAMORPHIC ENGINE EVALUATION
+======================================================================
+
+======================================================================
+METRIC 1: OPCODE N-GRAM SIMILARITY (CFG Engine)
+======================================================================
+
+cfg_variant_10:
+  Original length: 11 instructions
+  Variant length:  17 instructions
+  Expansion rate:  1.55x
+  3-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_11:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.5774 (lower is better)
+    Jaccard: 0.4000 (lower is better)
+  4-gram similarity:
+    Cosine:  0.5330 (lower is better)
+    Jaccard: 0.3571 (lower is better)
+  5-gram similarity:
+    Cosine:  0.4781 (lower is better)
+    Jaccard: 0.3077 (lower is better)
+
+cfg_variant_12:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.3698 (lower is better)
+    Jaccard: 0.2222 (lower is better)
+  4-gram similarity:
+    Cosine:  0.3062 (lower is better)
+    Jaccard: 0.1765 (lower is better)
+  5-gram similarity:
+    Cosine:  0.2279 (lower is better)
+    Jaccard: 0.1250 (lower is better)
+
+cfg_variant_13:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.1925 (lower is better)
+    Jaccard: 0.1053 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1066 (lower is better)
+    Jaccard: 0.0556 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_14:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.6736 (lower is better)
+    Jaccard: 0.5000 (lower is better)
+  4-gram similarity:
+    Cosine:  0.5330 (lower is better)
+    Jaccard: 0.3571 (lower is better)
+  5-gram similarity:
+    Cosine:  0.4781 (lower is better)
+    Jaccard: 0.3077 (lower is better)
+
+cfg_variant_15:
+  Original length: 11 instructions
+  Variant length:  25 instructions
+  Expansion rate:  2.27x
+  3-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_16:
+  Original length: 11 instructions
+  Variant length:  16 instructions
+  Expansion rate:  1.45x
+  3-gram similarity:
+    Cosine:  0.4454 (lower is better)
+    Jaccard: 0.2778 (lower is better)
+  4-gram similarity:
+    Cosine:  0.3922 (lower is better)
+    Jaccard: 0.2353 (lower is better)
+  5-gram similarity:
+    Cosine:  0.3273 (lower is better)
+    Jaccard: 0.1875 (lower is better)
+
+cfg_variant_17:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.3698 (lower is better)
+    Jaccard: 0.2222 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1021 (lower is better)
+    Jaccard: 0.0526 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_18:
+  Original length: 11 instructions
+  Variant length:  17 instructions
+  Expansion rate:  1.55x
+  3-gram similarity:
+    Cosine:  0.1721 (lower is better)
+    Jaccard: 0.0909 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0945 (lower is better)
+    Jaccard: 0.0476 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_19:
+  Original length: 11 instructions
+  Variant length:  17 instructions
+  Expansion rate:  1.55x
+  3-gram similarity:
+    Cosine:  0.2582 (lower is better)
+    Jaccard: 0.1429 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1890 (lower is better)
+    Jaccard: 0.1000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1048 (lower is better)
+    Jaccard: 0.0526 (lower is better)
+
+cfg_variant_1:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.2887 (lower is better)
+    Jaccard: 0.1667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2132 (lower is better)
+    Jaccard: 0.1176 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1195 (lower is better)
+    Jaccard: 0.0625 (lower is better)
+
+cfg_variant_20:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.2774 (lower is better)
+    Jaccard: 0.1579 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2041 (lower is better)
+    Jaccard: 0.1111 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1140 (lower is better)
+    Jaccard: 0.0588 (lower is better)
+
+cfg_variant_21:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.4623 (lower is better)
+    Jaccard: 0.2941 (lower is better)
+  4-gram similarity:
+    Cosine:  0.4082 (lower is better)
+    Jaccard: 0.2500 (lower is better)
+  5-gram similarity:
+    Cosine:  0.3419 (lower is better)
+    Jaccard: 0.2000 (lower is better)
+
+cfg_variant_22:
+  Original length: 11 instructions
+  Variant length:  13 instructions
+  Expansion rate:  1.18x
+  3-gram similarity:
+    Cosine:  0.5025 (lower is better)
+    Jaccard: 0.3333 (lower is better)
+  4-gram similarity:
+    Cosine:  0.4472 (lower is better)
+    Jaccard: 0.2857 (lower is better)
+  5-gram similarity:
+    Cosine:  0.3780 (lower is better)
+    Jaccard: 0.2308 (lower is better)
+
+cfg_variant_23:
+  Original length: 11 instructions
+  Variant length:  13 instructions
+  Expansion rate:  1.18x
+  3-gram similarity:
+    Cosine:  0.7035 (lower is better)
+    Jaccard: 0.5385 (lower is better)
+  4-gram similarity:
+    Cosine:  0.6708 (lower is better)
+    Jaccard: 0.5000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.6299 (lower is better)
+    Jaccard: 0.4545 (lower is better)
+
+cfg_variant_24:
+  Original length: 11 instructions
+  Variant length:  21 instructions
+  Expansion rate:  1.91x
+  3-gram similarity:
+    Cosine:  0.0765 (lower is better)
+    Jaccard: 0.0370 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_25:
+  Original length: 11 instructions
+  Variant length:  12 instructions
+  Expansion rate:  1.09x
+  3-gram similarity:
+    Cosine:  0.2108 (lower is better)
+    Jaccard: 0.1176 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1179 (lower is better)
+    Jaccard: 0.0625 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_26:
+  Original length: 11 instructions
+  Variant length:  16 instructions
+  Expansion rate:  1.45x
+  3-gram similarity:
+    Cosine:  0.1782 (lower is better)
+    Jaccard: 0.0952 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_27:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.2887 (lower is better)
+    Jaccard: 0.1667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2132 (lower is better)
+    Jaccard: 0.1176 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1195 (lower is better)
+    Jaccard: 0.0625 (lower is better)
+
+cfg_variant_28:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.1849 (lower is better)
+    Jaccard: 0.1000 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1021 (lower is better)
+    Jaccard: 0.0526 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_29:
+  Original length: 11 instructions
+  Variant length:  16 instructions
+  Expansion rate:  1.45x
+  3-gram similarity:
+    Cosine:  0.3563 (lower is better)
+    Jaccard: 0.2105 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2942 (lower is better)
+    Jaccard: 0.1667 (lower is better)
+  5-gram similarity:
+    Cosine:  0.2182 (lower is better)
+    Jaccard: 0.1176 (lower is better)
+
+cfg_variant_2:
+  Original length: 11 instructions
+  Variant length:  12 instructions
+  Expansion rate:  1.09x
+  3-gram similarity:
+    Cosine:  0.5270 (lower is better)
+    Jaccard: 0.3571 (lower is better)
+  4-gram similarity:
+    Cosine:  0.4714 (lower is better)
+    Jaccard: 0.3077 (lower is better)
+  5-gram similarity:
+    Cosine:  0.4009 (lower is better)
+    Jaccard: 0.2500 (lower is better)
+
+cfg_variant_30:
+  Original length: 11 instructions
+  Variant length:  19 instructions
+  Expansion rate:  1.73x
+  3-gram similarity:
+    Cosine:  0.0808 (lower is better)
+    Jaccard: 0.0400 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_31:
+  Original length: 11 instructions
+  Variant length:  13 instructions
+  Expansion rate:  1.18x
+  3-gram similarity:
+    Cosine:  0.6030 (lower is better)
+    Jaccard: 0.4286 (lower is better)
+  4-gram similarity:
+    Cosine:  0.5590 (lower is better)
+    Jaccard: 0.3846 (lower is better)
+  5-gram similarity:
+    Cosine:  0.5040 (lower is better)
+    Jaccard: 0.3333 (lower is better)
+
+cfg_variant_32:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.4811 (lower is better)
+    Jaccard: 0.3125 (lower is better)
+  4-gram similarity:
+    Cosine:  0.4264 (lower is better)
+    Jaccard: 0.2667 (lower is better)
+  5-gram similarity:
+    Cosine:  0.3586 (lower is better)
+    Jaccard: 0.2143 (lower is better)
+
+cfg_variant_33:
+  Original length: 11 instructions
+  Variant length:  18 instructions
+  Expansion rate:  1.64x
+  3-gram similarity:
+    Cosine:  0.0786 (lower is better)
+    Jaccard: 0.0435 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_34:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.3698 (lower is better)
+    Jaccard: 0.2222 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2041 (lower is better)
+    Jaccard: 0.1111 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1140 (lower is better)
+    Jaccard: 0.0588 (lower is better)
+
+cfg_variant_35:
+  Original length: 11 instructions
+  Variant length:  19 instructions
+  Expansion rate:  1.73x
+  3-gram similarity:
+    Cosine:  0.1617 (lower is better)
+    Jaccard: 0.0833 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0884 (lower is better)
+    Jaccard: 0.0435 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_36:
+  Original length: 11 instructions
+  Variant length:  18 instructions
+  Expansion rate:  1.64x
+  3-gram similarity:
+    Cosine:  0.1667 (lower is better)
+    Jaccard: 0.0870 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0913 (lower is better)
+    Jaccard: 0.0455 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_37:
+  Original length: 11 instructions
+  Variant length:  17 instructions
+  Expansion rate:  1.55x
+  3-gram similarity:
+    Cosine:  0.1721 (lower is better)
+    Jaccard: 0.0909 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0945 (lower is better)
+    Jaccard: 0.0476 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_38:
+  Original length: 11 instructions
+  Variant length:  16 instructions
+  Expansion rate:  1.45x
+  3-gram similarity:
+    Cosine:  0.2673 (lower is better)
+    Jaccard: 0.1500 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1961 (lower is better)
+    Jaccard: 0.1053 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1091 (lower is better)
+    Jaccard: 0.0556 (lower is better)
+
+cfg_variant_39:
+  Original length: 11 instructions
+  Variant length:  17 instructions
+  Expansion rate:  1.55x
+  3-gram similarity:
+    Cosine:  0.3443 (lower is better)
+    Jaccard: 0.2000 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1890 (lower is better)
+    Jaccard: 0.1000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1048 (lower is better)
+    Jaccard: 0.0526 (lower is better)
+
+cfg_variant_3:
+  Original length: 11 instructions
+  Variant length:  18 instructions
+  Expansion rate:  1.64x
+  3-gram similarity:
+    Cosine:  0.1667 (lower is better)
+    Jaccard: 0.0870 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0913 (lower is better)
+    Jaccard: 0.0455 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_40:
+  Original length: 11 instructions
+  Variant length:  12 instructions
+  Expansion rate:  1.09x
+  3-gram similarity:
+    Cosine:  0.4216 (lower is better)
+    Jaccard: 0.2667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2357 (lower is better)
+    Jaccard: 0.1333 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_41:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.2887 (lower is better)
+    Jaccard: 0.1667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2132 (lower is better)
+    Jaccard: 0.1176 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1195 (lower is better)
+    Jaccard: 0.0625 (lower is better)
+
+cfg_variant_42:
+  Original length: 11 instructions
+  Variant length:  13 instructions
+  Expansion rate:  1.18x
+  3-gram similarity:
+    Cosine:  0.5025 (lower is better)
+    Jaccard: 0.3333 (lower is better)
+  4-gram similarity:
+    Cosine:  0.4472 (lower is better)
+    Jaccard: 0.2857 (lower is better)
+  5-gram similarity:
+    Cosine:  0.3780 (lower is better)
+    Jaccard: 0.2308 (lower is better)
+
+cfg_variant_43:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.1925 (lower is better)
+    Jaccard: 0.1053 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1066 (lower is better)
+    Jaccard: 0.0556 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_44:
+  Original length: 11 instructions
+  Variant length:  17 instructions
+  Expansion rate:  1.55x
+  3-gram similarity:
+    Cosine:  0.0861 (lower is better)
+    Jaccard: 0.0435 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_45:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.3849 (lower is better)
+    Jaccard: 0.2353 (lower is better)
+  4-gram similarity:
+    Cosine:  0.3198 (lower is better)
+    Jaccard: 0.1875 (lower is better)
+  5-gram similarity:
+    Cosine:  0.2390 (lower is better)
+    Jaccard: 0.1333 (lower is better)
+
+cfg_variant_46:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.2887 (lower is better)
+    Jaccard: 0.1667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.1066 (lower is better)
+    Jaccard: 0.0556 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_47:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.2887 (lower is better)
+    Jaccard: 0.1667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2132 (lower is better)
+    Jaccard: 0.1176 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1195 (lower is better)
+    Jaccard: 0.0625 (lower is better)
+
+cfg_variant_48:
+  Original length: 11 instructions
+  Variant length:  12 instructions
+  Expansion rate:  1.09x
+  3-gram similarity:
+    Cosine:  0.4216 (lower is better)
+    Jaccard: 0.2667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2357 (lower is better)
+    Jaccard: 0.1333 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_49:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.2887 (lower is better)
+    Jaccard: 0.1667 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2132 (lower is better)
+    Jaccard: 0.1176 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1195 (lower is better)
+    Jaccard: 0.0625 (lower is better)
+
+cfg_variant_4:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.0962 (lower is better)
+    Jaccard: 0.0500 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_50:
+  Original length: 11 instructions
+  Variant length:  13 instructions
+  Expansion rate:  1.18x
+  3-gram similarity:
+    Cosine:  0.4020 (lower is better)
+    Jaccard: 0.2500 (lower is better)
+  4-gram similarity:
+    Cosine:  0.2236 (lower is better)
+    Jaccard: 0.1250 (lower is better)
+  5-gram similarity:
+    Cosine:  0.1260 (lower is better)
+    Jaccard: 0.0667 (lower is better)
+
+cfg_variant_5:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.1721 (lower is better)
+    Jaccard: 0.1053 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_6:
+  Original length: 11 instructions
+  Variant length:  15 instructions
+  Expansion rate:  1.36x
+  3-gram similarity:
+    Cosine:  0.3698 (lower is better)
+    Jaccard: 0.2222 (lower is better)
+  4-gram similarity:
+    Cosine:  0.3062 (lower is better)
+    Jaccard: 0.1765 (lower is better)
+  5-gram similarity:
+    Cosine:  0.2279 (lower is better)
+    Jaccard: 0.1250 (lower is better)
+
+cfg_variant_7:
+  Original length: 11 instructions
+  Variant length:  12 instructions
+  Expansion rate:  1.09x
+  3-gram similarity:
+    Cosine:  0.5270 (lower is better)
+    Jaccard: 0.3571 (lower is better)
+  4-gram similarity:
+    Cosine:  0.4714 (lower is better)
+    Jaccard: 0.3077 (lower is better)
+  5-gram similarity:
+    Cosine:  0.4009 (lower is better)
+    Jaccard: 0.2500 (lower is better)
+
+cfg_variant_8:
+  Original length: 11 instructions
+  Variant length:  17 instructions
+  Expansion rate:  1.55x
+  3-gram similarity:
+    Cosine:  0.1721 (lower is better)
+    Jaccard: 0.0909 (lower is better)
+  4-gram similarity:
+    Cosine:  0.0945 (lower is better)
+    Jaccard: 0.0476 (lower is better)
+  5-gram similarity:
+    Cosine:  0.0000 (lower is better)
+    Jaccard: 0.0000 (lower is better)
+
+cfg_variant_9:
+  Original length: 11 instructions
+  Variant length:  14 instructions
+  Expansion rate:  1.27x
+  3-gram similarity:
+    Cosine:  0.3849 (lower is better)
+    Jaccard: 0.2353 (lower is better)
+  4-gram similarity:
+    Cosine:  0.3198 (lower is better)
+    Jaccard: 0.1875 (lower is better)
+  5-gram similarity:
+    Cosine:  0.2390 (lower is better)
+    Jaccard: 0.1333 (lower is better)
+
+----------------------------------------------------------------------
+AVERAGE SIMILARITY ACROSS ALL VARIANTS:
+----------------------------------------------------------------------
+3-gram:
+  Average Cosine:  0.3059
+  Average Jaccard: 0.1902
+4-gram:
+  Average Cosine:  0.2169
+  Average Jaccard: 0.1310
+5-gram:
+  Average Cosine:  0.1420
+  Average Jaccard: 0.0852
+
+======================================================================
+METRIC 2: FUZZY HASH SIMILARITY (ssdeep) (CFG Engine)
+======================================================================
+
+Original ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYUXMm8lWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DrM11tAjBiF
+
+cfg_variant_1:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY9CKDYlWTGMpd1tAjBVUeWFn:E6BRhUiOGU6uBTJBI2DCCcZ1tAjBVUZF
+  Similarity (asm):  85% (lower is better)
+
+cfg_variant_10:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DUEUzoeKgetA918rjBiF:7uBt62Dmo7getuSfBm
+  Similarity (asm):  75% (lower is better)
+
+cfg_variant_11:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRNACxj1tAjBiF:7uBt62DiPh1tkBm
+  Similarity (asm):  85% (lower is better)
+
+cfg_variant_12:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DqUzd18rDA1tAjBiF:7uBt62DzdSnA1tkBm
+  Similarity (asm):  85% (lower is better)
+
+cfg_variant_13:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYpFXGzZDZ/FoYmlWqaabAFXkHd1L:E6BRhUiOGU6uBTJBI2DqUzamK1tAjBiF
+  Similarity (asm):  86% (lower is better)
+
+cfg_variant_14:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYUX/Dbu1aYRPlWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2Dre1Z1tAjBiF
+  Similarity (asm):  96% (lower is better)
+
+cfg_variant_15:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DUL4Uza18rp1goKgetAhgjBiF:7uBt62DgBaSVcgetTBm
+  Similarity (asm):  75% (lower is better)
+
+cfg_variant_16:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiREhoUz3t1tAjBiF:7uBt62Dim3t1tkBm
+  Similarity (asm):  82% (lower is better)
+
+cfg_variant_17:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DrVqXNptAjBVUZF:7uBt62DBqXNptkBVUX
+  Similarity (asm):  82% (lower is better)
+
+cfg_variant_18:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY+2RkgabHCKDnYRPlWGMGFXkHd1L:E6BRhUiOGU6uBTJBI2DiRwCNK1tAjBiF
+  Similarity (asm):  86% (lower is better)
+
+cfg_variant_19:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DhCJcq1tAhgjBiF:7uBt62D41tTBm
+  Similarity (asm):  85% (lower is better)
+
+cfg_variant_2:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYpFXGzZDYlWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DqUzs1tAjBiF
+  Similarity (asm):  91% (lower is better)
+
+cfg_variant_20:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRzIY1tA/TBVUZF:7uBt62Di6Y1t0TBVUX
+  Similarity (asm):  77% (lower is better)
+
+cfg_variant_21:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYJ1f/GEX6Y0Xab3PlWTWd1tAjBVG:E6BRhUiOGU6uBTJBI2DU1KY1tAjBVUZF
+  Similarity (asm):  86% (lower is better)
+
+cfg_variant_22:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYJ1f/GWsCt+lWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DUfsCO1tAjBiF
+  Similarity (asm):  88% (lower is better)
+
+cfg_variant_23:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DU6kMiY1tAjBVUZF:7uBt62DlCY1tkBVUX
+  Similarity (asm):  83% (lower is better)
+
+cfg_variant_24:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h33TNFYkPuKXFqkPuOX/DnYRPle:E6BRhUiOGU6uBTJBI2D9FVMygetAjBiF
+  Similarity (asm):  86% (lower is better)
+
+cfg_variant_25:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY9Ct+lWjFXkHd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DCChK1tAjBiF
+  Similarity (asm):  90% (lower is better)
+
+cfg_variant_26:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DVUz/JeqT5htAjBVUZF:7uBt62DiBeyrtkBVUX
+  Similarity (asm):  74% (lower is better)
+
+cfg_variant_27:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYJ1f/GEX/DYlWWd1tAeuTBbWFn:E6BRhUiOGU6uBTJBI2DU1+1tA/TBiF
+  Similarity (asm):  90% (lower is better)
+
+cfg_variant_28:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DI1Uzz/uK1tAjBiF:7uBt62DIC31tkBm
+  Similarity (asm):  86% (lower is better)
+
+cfg_variant_29:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRdM1vjutA/TBiF:7uBt62DiY6t0TBm
+  Similarity (asm):  83% (lower is better)
+
+cfg_variant_3:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DUfsCFrF8K1tAjBiF:7uBt62DQrFV1tkBm
+  Similarity (asm):  85% (lower is better)
+
+cfg_variant_30:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DUCFJMR7K1tA/TBiF:7uBt62Dc7K1t0TBm
+  Similarity (asm):  82% (lower is better)
+
+cfg_variant_31:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY9hyYJFXGzcabQm8lWWd1tAjBbWF:E6BRhUiOGU6uBTJBI2DyUzI11tAjBiF
+  Similarity (asm):  91% (lower is better)
+
+cfg_variant_32:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3KXMNmkPuIIkPu3PlWWd1tAjBm:E6BRhUiOGU6uBTJBI2D2MDjM1tAjBiF
+  Similarity (asm):  91% (lower is better)
+
+cfg_variant_33:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DUggrUzV1tASEBiF:7uBt62DJV1tmBm
+  Similarity (asm):  83% (lower is better)
+
+cfg_variant_34:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DUO9Cx1vjutAjBiF:7uBt62D9o6tkBm
+  Similarity (asm):  83% (lower is better)
+
+cfg_variant_35:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3iJnabOX/DQucPlWGTNFYkPuKU:E6BRhUiOGU6uBTJBI2DU1qFQ/tASEBiF
+  Similarity (asm):  83% (lower is better)
+
+cfg_variant_36:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRiUzFWUvb4K1tAjBVUZF:7uBt62DiNFpvbx1tkBVUX
+  Similarity (asm):  74% (lower is better)
+
+cfg_variant_37:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRCUzOvb4K1tAjBVUZF:7uBt62DihOvbx1tkBVUX
+  Similarity (asm):  75% (lower is better)
+
+cfg_variant_38:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYpFXGzZTNFYkPuKXFqkPuLDYlWGE:E6BRhUiOGU6uBTJBI2DqUzRFa1tAjBiF
+  Similarity (asm):  86% (lower is better)
+
+cfg_variant_39:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRnFfUzoN1hhutAjBiF:7uBt62DikojatkBm
+  Similarity (asm):  79% (lower is better)
+
+cfg_variant_4:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DrqtjK1tA+cBVUZF:7uBt62D+tm1t5cBVUX
+  Similarity (asm):  80% (lower is better)
+
+cfg_variant_40:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYUXMkab3PlWjFXkHd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DrMWK1tAjBiF
+  Similarity (asm):  96% (lower is better)
+
+cfg_variant_41:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYJ1f/GEX/DYlWbaYId1tAjBbWFn:E6BRhUiOGU6uBTJBI2DU1VW1tAjBiF
+  Similarity (asm):  93% (lower is better)
+
+cfg_variant_42:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3KXMm8lWWd1tA+SabyBbWFn:E6BRhUiOGU6uBTJBI2D2M11tA+cBiF
+  Similarity (asm):  93% (lower is better)
+
+cfg_variant_43:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DUn2jK1tAjBVUZF:7uBt62Dzm1tkBVUX
+  Similarity (asm):  82% (lower is better)
+
+cfg_variant_44:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DMgJZjKntAjBVUZF:7uBt62DJmntkBVUX
+  Similarity (asm):  80% (lower is better)
+
+cfg_variant_45:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYNaY0X/DYlWtJnabPd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DIag1tAjBiF
+  Similarity (asm):  91% (lower is better)
+
+cfg_variant_46:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRN4Uz+X4K1tAjBiF:7uBt62DiPBsx1tkBm
+  Similarity (asm):  82% (lower is better)
+
+cfg_variant_47:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY+2RkZFXGzM+lWWJnabed1tAjBbS:E6BRhUiOGU6uBTJBI2DiRCUzx1tAjBiF
+  Similarity (asm):  86% (lower is better)
+
+cfg_variant_48:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXYJ1f/GEXMm8lWjFXkHd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DU1MgK1tAjBiF
+  Similarity (asm):  91% (lower is better)
+
+cfg_variant_49:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRCUz/Y1tASEBVUZF:7uBt62Dih/Y1tmBVUX
+  Similarity (asm):  75% (lower is better)
+
+cfg_variant_5:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DVUz+8/oK9PtAjBiF:7uBt62DihZtkBm
+  Similarity (asm):  79% (lower is better)
+
+cfg_variant_50:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DiRlsCx13tAjBiF:7uBt62Dif3tkBm
+  Similarity (asm):  85% (lower is better)
+
+cfg_variant_6:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DX/h3KX/D0JKYRPlWjabPd1tAjBbWF:E6BRhUiOGU6uBTJBI2D24Jf1tAjBiF
+  Similarity (asm):  90% (lower is better)
+
+cfg_variant_7:
+  ssdeep hash (asm): 12:E6/J7yihLAhLB3RUB7OGLA6uB99NXBFXu2DXY9CKDYlWWd1tAjBbWFn:E6BRhUiOGU6uBTJBI2DCCP1tAjBiF
+  Similarity (asm):  93% (lower is better)
+
+cfg_variant_8:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DkF2YK1tAjBVUZF:7uBt62Dk4R1tkBVUX
+  Similarity (asm):  82% (lower is better)
+
+cfg_variant_9:
+  ssdeep hash (asm): 24:E6BRhUiOGU6uBTJBI2DCCDtHA1tAjBVUZF:7uBt62D1tHA1tkBVUX
+  Similarity (asm):  80% (lower is better)
+
+——————————————————————————————————————————————————————————————————————
+Binary-level fuzzy hash comparison (.exe):
+  Original exe hash: 12:eFGSGFCwYxrEN9MUNWgM2eWk4O+EphiqhWiHaJ2+w5Bv:eFGSQCL9Wz7LkvZh9h96J2T5Bv
+  cfg_variant_1 exe similarity: 88%
+  cfg_variant_10 exe similarity: 82%
+  cfg_variant_11 exe similarity: 83%
+  cfg_variant_12 exe similarity: 85%
+  cfg_variant_13 exe similarity: 90%
+  cfg_variant_14 exe similarity: 93%
+  cfg_variant_15 exe similarity: 86%
+  cfg_variant_16 exe similarity: 90%
+  cfg_variant_17 exe similarity: 85%
+  cfg_variant_18 exe similarity: 88%
+  cfg_variant_19 exe similarity: 83%
+  cfg_variant_2 exe similarity: 83%
+  cfg_variant_20 exe similarity: 90%
+  cfg_variant_21 exe similarity: 86%
+  cfg_variant_22 exe similarity: 83%
+  cfg_variant_23 exe similarity: 86%
+  cfg_variant_24 exe similarity: 82%
+  cfg_variant_25 exe similarity: 80%
+  cfg_variant_26 exe similarity: 82%
+  cfg_variant_27 exe similarity: 80%
+  cfg_variant_28 exe similarity: 82%
+  cfg_variant_29 exe similarity: 79%
+  cfg_variant_3 exe similarity: 85%
+  cfg_variant_30 exe similarity: 83%
+  cfg_variant_31 exe similarity: 83%
+  cfg_variant_32 exe similarity: 88%
+  cfg_variant_33 exe similarity: 83%
+  cfg_variant_34 exe similarity: 83%
+  cfg_variant_35 exe similarity: 85%
+  cfg_variant_36 exe similarity: 79%
+  cfg_variant_37 exe similarity: 83%
+  cfg_variant_38 exe similarity: 86%
+  cfg_variant_39 exe similarity: 82%
+  cfg_variant_4 exe similarity: 82%
+  cfg_variant_40 exe similarity: 85%
+  cfg_variant_41 exe similarity: 82%
+  cfg_variant_42 exe similarity: 90%
+  cfg_variant_43 exe similarity: 85%
+  cfg_variant_44 exe similarity: 85%
+  cfg_variant_45 exe similarity: 79%
+  cfg_variant_46 exe similarity: 85%
+  cfg_variant_47 exe similarity: 86%
+  cfg_variant_48 exe similarity: 83%
+  cfg_variant_49 exe similarity: 88%
+  cfg_variant_5 exe similarity: 83%
+  cfg_variant_50 exe similarity: 85%
+  cfg_variant_6 exe similarity: 83%
+  cfg_variant_7 exe similarity: 83%
+  cfg_variant_8 exe similarity: 83%
+  cfg_variant_9 exe similarity: 83%
+  Average binary similarity: 84.32%
+
+======================================================================
+AVERAGE FUZZY HASH SIMILARITY (asm): 84.52%
+======================================================================
+
+======================================================================
+METRIC 3: CONTROL-FLOW GRAPH (CFG) SIMILARITY (CFG Engine)
+======================================================================
+
+Original CFG:
+  Nodes: 11
+  Edges: 9
+
+cfg_variant_10:
+  Nodes: 17
+  Edges: 15
+  Graph Edit Distance (normalized): 0.3750 (higher is better)
+  Subgraph Similarity: 0.4118 (lower is better)
+
+cfg_variant_11:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_12:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.2857 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_13:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_14:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_15:
+  Nodes: 25
+  Edges: 23
+  Graph Edit Distance (normalized): 0.5833 (higher is better)
+  Subgraph Similarity: 0.2800 (lower is better)
+
+cfg_variant_16:
+  Nodes: 16
+  Edges: 14
+  Graph Edit Distance (normalized): 0.3333 (higher is better)
+  Subgraph Similarity: 0.4375 (lower is better)
+
+cfg_variant_17:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.2857 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_18:
+  Nodes: 17
+  Edges: 15
+  Graph Edit Distance (normalized): 0.3750 (higher is better)
+  Subgraph Similarity: 0.4118 (lower is better)
+
+cfg_variant_19:
+  Nodes: 17
+  Edges: 15
+  Graph Edit Distance (normalized): 0.3750 (higher is better)
+  Subgraph Similarity: 0.4118 (lower is better)
+
+cfg_variant_1:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_20:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.2857 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_21:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.2857 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_22:
+  Nodes: 13
+  Edges: 11
+  Graph Edit Distance (normalized): 0.2500 (higher is better)
+  Subgraph Similarity: 0.6923 (lower is better)
+
+cfg_variant_23:
+  Nodes: 13
+  Edges: 11
+  Graph Edit Distance (normalized): 0.2500 (higher is better)
+  Subgraph Similarity: 0.6923 (lower is better)
+
+cfg_variant_24:
+  Nodes: 21
+  Edges: 19
+  Graph Edit Distance (normalized): 0.5000 (higher is better)
+  Subgraph Similarity: 0.3333 (lower is better)
+
+cfg_variant_25:
+  Nodes: 12
+  Edges: 10
+  Graph Edit Distance (normalized): 0.1818 (higher is better)
+  Subgraph Similarity: 0.8333 (lower is better)
+
+cfg_variant_26:
+  Nodes: 16
+  Edges: 14
+  Graph Edit Distance (normalized): 0.3333 (higher is better)
+  Subgraph Similarity: 0.4375 (lower is better)
+
+cfg_variant_27:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.3077 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_28:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.2857 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_29:
+  Nodes: 16
+  Edges: 14
+  Graph Edit Distance (normalized): 0.4000 (higher is better)
+  Subgraph Similarity: 0.4375 (lower is better)
+
+cfg_variant_2:
+  Nodes: 12
+  Edges: 10
+  Graph Edit Distance (normalized): 0.1818 (higher is better)
+  Subgraph Similarity: 0.8333 (lower is better)
+
+cfg_variant_30:
+  Nodes: 19
+  Edges: 17
+  Graph Edit Distance (normalized): 0.4444 (higher is better)
+  Subgraph Similarity: 0.3684 (lower is better)
+
+cfg_variant_31:
+  Nodes: 13
+  Edges: 11
+  Graph Edit Distance (normalized): 0.2500 (higher is better)
+  Subgraph Similarity: 0.6923 (lower is better)
+
+cfg_variant_32:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_33:
+  Nodes: 18
+  Edges: 16
+  Graph Edit Distance (normalized): 0.4118 (higher is better)
+  Subgraph Similarity: 0.3889 (lower is better)
+
+cfg_variant_34:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.3571 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_35:
+  Nodes: 19
+  Edges: 17
+  Graph Edit Distance (normalized): 0.4444 (higher is better)
+  Subgraph Similarity: 0.3684 (lower is better)
+
+cfg_variant_36:
+  Nodes: 18
+  Edges: 16
+  Graph Edit Distance (normalized): 0.4118 (higher is better)
+  Subgraph Similarity: 0.3889 (lower is better)
+
+cfg_variant_37:
+  Nodes: 17
+  Edges: 15
+  Graph Edit Distance (normalized): 0.3750 (higher is better)
+  Subgraph Similarity: 0.4118 (lower is better)
+
+cfg_variant_38:
+  Nodes: 16
+  Edges: 14
+  Graph Edit Distance (normalized): 0.3333 (higher is better)
+  Subgraph Similarity: 0.4375 (lower is better)
+
+cfg_variant_39:
+  Nodes: 17
+  Edges: 15
+  Graph Edit Distance (normalized): 0.3750 (higher is better)
+  Subgraph Similarity: 0.4118 (lower is better)
+
+cfg_variant_3:
+  Nodes: 18
+  Edges: 16
+  Graph Edit Distance (normalized): 0.4118 (higher is better)
+  Subgraph Similarity: 0.3889 (lower is better)
+
+cfg_variant_40:
+  Nodes: 12
+  Edges: 10
+  Graph Edit Distance (normalized): 0.1818 (higher is better)
+  Subgraph Similarity: 0.8333 (lower is better)
+
+cfg_variant_41:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_42:
+  Nodes: 13
+  Edges: 11
+  Graph Edit Distance (normalized): 0.2500 (higher is better)
+  Subgraph Similarity: 0.6923 (lower is better)
+
+cfg_variant_43:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_44:
+  Nodes: 17
+  Edges: 15
+  Graph Edit Distance (normalized): 0.3750 (higher is better)
+  Subgraph Similarity: 0.4118 (lower is better)
+
+cfg_variant_45:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_46:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_47:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_48:
+  Nodes: 12
+  Edges: 10
+  Graph Edit Distance (normalized): 0.1818 (higher is better)
+  Subgraph Similarity: 0.8333 (lower is better)
+
+cfg_variant_49:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.3077 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_4:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.3077 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+cfg_variant_50:
+  Nodes: 13
+  Edges: 11
+  Graph Edit Distance (normalized): 0.2500 (higher is better)
+  Subgraph Similarity: 0.6923 (lower is better)
+
+cfg_variant_5:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.2857 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_6:
+  Nodes: 15
+  Edges: 13
+  Graph Edit Distance (normalized): 0.2857 (higher is better)
+  Subgraph Similarity: 0.4667 (lower is better)
+
+cfg_variant_7:
+  Nodes: 12
+  Edges: 10
+  Graph Edit Distance (normalized): 0.1818 (higher is better)
+  Subgraph Similarity: 0.8333 (lower is better)
+
+cfg_variant_8:
+  Nodes: 17
+  Edges: 15
+  Graph Edit Distance (normalized): 0.3750 (higher is better)
+  Subgraph Similarity: 0.4118 (lower is better)
+
+cfg_variant_9:
+  Nodes: 14
+  Edges: 12
+  Graph Edit Distance (normalized): 0.2308 (higher is better)
+  Subgraph Similarity: 0.5714 (lower is better)
+
+======================================================================
+AVERAGE CFG METRICS:
+  Graph Edit Distance: 0.3042 (higher is better)
+  Subgraph Similarity: 0.5302 (lower is better)
+======================================================================
+
+======================================================================
+GENERATING VISUALIZATIONS
+======================================================================
+[+] Visualization saved to: output/cfg_evaluation_results.png
+
+[+] JSON results saved to: output/cfg_evaluation_results.json
+
+======================================================================
+EVALUATION COMPLETE
+======================================================================
+
+[+] Full terminal output saved to: output/cfg_evaluation_report.txt

@@ -1,0 +1,15 @@
+sub
+mov
+xor
+mov
+push
+pop
+add
+mov
+xchg
+dec
+jnz
+lea
+mov
+call
+add

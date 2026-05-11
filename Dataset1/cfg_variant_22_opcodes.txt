@@ -1,0 +1,13 @@
+sub
+mov
+add
+and
+xor
+inc
+add
+xchg
+dec
+jnz
+mov
+call
+add
